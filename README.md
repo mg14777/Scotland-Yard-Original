@@ -10,4 +10,4 @@ The UI has been produced using Java Swing API
 
 <b>Team Members:</b><br>
 Mihail-Calin Ionescu<br>
-MuditGupta
+Mudit Gupta
