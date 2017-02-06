@@ -9,5 +9,7 @@ MVC (Model View Controller) architecture has been used which comprises of a mode
 The UI has been produced using Java Swing API
 
 Team Members:
+
 Mihail-Calin Ionescu
+
 MuditGupta
