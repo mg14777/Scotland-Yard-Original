@@ -1,0 +1,7 @@
+Black Blue Red 
+Blue
+2
+false false false false true false 
+Black 1 5 4 3 2 2
+Blue 10 8 7 4 0 0
+Red 72 6 9 4 0 0
